@@ -12,8 +12,8 @@ pip install foobar
 
 ## Usage
 
-```python
-import foobar
+ython
+impf
 
 # returns 'words'
 foobar.pluralize('word')
